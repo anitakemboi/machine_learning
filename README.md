@@ -1,0 +1,1 @@
+This is a linear regression exercise by Google on Machine learnin. I was trying to predict the fare prices of a taxi(label) using a number of features such such trip miles, trip minutes, tip rate, payment trype e.t.c. I was also able to check the effect of hyperparameters on the model created. The hyperparameters tested were batch size, learning rate and Epoch size.
